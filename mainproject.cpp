@@ -13,7 +13,7 @@ int main()
 {
     int i;
     ifstream file;
-    file.open("E:\\Local Disk G\\8th Semester\\CSE350\\Project\\input.txt");
+    file.open("E:\\input.txt");
     char x[500];
     for(int i=0; i<n; i++)
     {
